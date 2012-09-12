@@ -2,6 +2,8 @@
 
 ## Exemplos de comunicação entre Arduino, Processing e Pure Data para utilização com o Plantronic
 
+<img src="https://raw.github.com/nanolab/plantronic-conectividade/master/images/plantronic.jpg" width="360"/>
+
 Este repositório contém alguns arquivos de Processing e Pure Data exemplificando duas configurações:
 
 1. Arduino envia dados via Serial para Processing, que gera gráficos e salva um arquivo `.csv` que pode ser aberto como planilha no Excel
